@@ -1,4 +1,4 @@
-# scrapychallenge_pedrojuan
+# Python Scrapy Tech Challenge
 
 ## Setup and requirements
 Download the repository    
@@ -19,3 +19,4 @@ The output will be stored in the file: __dropdowns.json__ and it will have the f
 ]
 
 See demo.mov to watch the video of the procedure: https://drive.google.com/file/d/1hf4I-J9IjVFiZESdfl9uC9iA1y5R0Tlj/view?usp=sharing
+
