@@ -18,4 +18,4 @@ The output will be store in the file: __dropdowns.json__ and it will have this s
 {"drop5": "R"}
 ]
 
-See demo.mov to watch the video of the procedure.
+See demo.mov to watch the video of the procedure: https://drive.google.com/file/d/1hf4I-J9IjVFiZESdfl9uC9iA1y5R0Tlj/view?usp=sharing
