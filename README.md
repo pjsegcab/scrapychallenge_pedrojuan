@@ -9,7 +9,7 @@ In terminal, go to scrapychallenge/scrapychallenge/spiders and execute the follo
 __scrapy runspider dropdown_spider.py -o dropdowns.json__
 
 ## Output
-The output will be store in the file: __dropdowns.json__ and it will have this shape:  
+The output will be store in the file: __dropdowns.json__ and it will have the following shape:  
 [
 {"drop1": "A"},
 {"drop2": "C"},
